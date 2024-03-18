@@ -39,7 +39,7 @@ const chai =  () => {
 //     return num1 + num2
 // }
 
-// const addTwo = (num1, num2) =>  num1 + num2
+// const addTwo = (num1, num2) =>  num1 + num2  // implicit return --> when there is only one statement
 
 // const addTwo = (num1, num2) => ( num1 + num2 )
 
