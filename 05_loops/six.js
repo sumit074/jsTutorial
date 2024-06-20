@@ -49,3 +49,6 @@ const a = [1,2,3,5]
 const initialval=0
 const value = a.reduce((accumulator,currNum) => accumulator+currNum,initialval)
 console.log(value)
+
+
+// next dom
